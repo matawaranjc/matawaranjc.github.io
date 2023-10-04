@@ -2637,6 +2637,24 @@ img.svg{
     margin-bottom: 30px !important;
 }
 
+.arlo_tm_rightpart {
+    /* Your existing styles for arlo_tm_rightpart */
+    /* ... */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.details_wrap {
+    /* Your existing styles for details_wrap */
+    /* ... */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px; /* Adjust the margin-top value as needed */
+}
+
+
 
 
 
